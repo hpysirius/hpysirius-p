@@ -21,5 +21,5 @@ export function formaTime(second = 0) {
 }
 
 export function a() {
-  console.log('a')
+  console.log('abc')
 }
